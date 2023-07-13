@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function add_content(){
+            location.href = "/add_content";
+        }
+        function view(no){
+            location.href = "/view_content/"+no
+        }
+    </script>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>글 번호</th>
+            <th>글 제목</th>
+        </tr>
+        <% for(var i=0; i<data.length; i++) { %>
+        <tr>
+            <td><%=data[i]['no']%></td>
+            <td onclick="view('<%=data[i].no%>')"><%=data[i]['title']%></td>
+        </tr>
+        <% } %>
+    </table>
+    <button onclick="add_content()">글 쓰기</button>
+</body>
+</html>
+
+        <!-- 
+            data 변수의 형태
+            [
+                {
+                    'no' : 1 ,
+                    'title' : test ,
+                    'content' : xxxx,
+                    'writer' : xxxx,
+                    'create_dt' : xxxxx
+                }
+            ]
+        -->

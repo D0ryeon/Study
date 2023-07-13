@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns="http://java.sun.com/xml/ns/javaee" 
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>shop</display-name>  
+  
+  <welcom-file-list>
+  	<welcom-file>index.html</welcom-file>
+  	<welcom-file>index.htm</welcom-file>
+  	<welcom-file>index.jsp</welcom-file>
+  	<welcom-file>default.html</welcom-file>
+  	<welcom-file>default.htm</welcom-file>
+  	<welcom-file>default.jsp</welcom-file>
+  </welcom-file-list>
+  
+  <resource-ref>
+  	<description>Connection</description>
+  	<res-ref-name>jdbc/OracleDB</res-ref-name>
+  	<res-type>javax.sql</res-type>
+  </resource-ref>
+ 
+  
+  <jsp-config>
+  	<taglib>
+  		<taglib-uri>/WEB-INF/el-functions.tld</taglib-uri>
+  		<taglib-location>/WEB-INF/el-functions.tld</taglib-location>
+  	</taglib>
+  	<jsp-property-group>
+  		<url-pattern>/August31/view/*</url-pattern>
+  		<include-prelude>/August31/common/variable.jspf</include-prelude>
+  		<include-coda>/August31/common/footer.jspf</include-coda>
+  	</jsp-property-group>
+  </jsp-config>
+  
+
+   
+  <servlet>
+  	<servlet-name>JDBCDriverLoader</servlet-name>
+  	<servlet-class>loader.Loader</servlet-class>
+  	<init-param>
+  		<param-name>jdbcdriver</param-name>
+  		<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+  	</init-param>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  
+    <servlet>
+  	<servlet-name>DBCPInit</servlet-name>
+  	<servlet-class>loader.DBCPInit</servlet-class>
+  	<init-param>
+  		<param-name>jdbcdriver</param-name>
+  		<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+  	</init-param>
+  	<load-on-startup>2</load-on-startup>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>MessageDaoProviderInit</servlet-name>
+  	<servlet-class>dao.MessageDaoProviderInit</servlet-class>
+  	<init-param>
+  		<param-name>dbms</param-name>
+  		<param-value>oracle</param-value>
+  		
+  	</init-param>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+
+	<servlet>
+	<servlet-name>SimpleController</servlet-name>
+	<servlet-class>controller.SimpleController</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>SimpleController</servlet-name>
+	<url-pattern>/simple</url-pattern>
+</servlet-mapping>
+    
+    <servlet>
+    <servlet-name>ControllerUsingFile</servlet-name>
+    <servlet-class>controller.ControllerUsingFile</servlet-class>
+    <init-param>
+    	<param-name>configFile</param-name>
+    	<param-value>/WEB-INF/commandHandler.properties</param-value>
+    </init-param>
+    </servlet>
+    <servlet-mapping>
+    	<servlet-name>ControllerUsingFile</servlet-name>
+    	<url-pattern>/controllerUsingFile</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+    	<servlet-name>ControllerUsingURI</servlet-name>
+    	<servlet-class>ezen.controller.ControllerUsingURI2</servlet-class>
+    	<init-param>
+    		<param-name>configFile2</param-name>
+    		<param-value>/WEB-INF/commandHandlerURI.properties</param-value>
+    	</init-param>
+    </servlet>
+    
+    <servlet-mapping>
+    	<servlet-name>ControllerUsingURI</servlet-name>
+    	<url-pattern>*.do</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+    	<servlet-name>MemberFrontController</servlet-name>
+    	<servlet-class>net.member.action.MemberFrontController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+    	<servelt-name>MemberFrontController</servelt-name>
+    	<url-pattern>*.me</url-pattern>
+    </servlet-mapping>
+    
+
+    
+</web-app>

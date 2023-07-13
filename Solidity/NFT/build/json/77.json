@@ -1,0 +1,47 @@
+{
+  "name": "10-DUCK #77",
+  "description": "당신은 쉽덕입니다.",
+  "image": "ipfs://bafybeib4zjs7hq25ucd5idoniemdqvmzg4yjgr4mehdse3xelqw6fiheqe/77.png",
+  "dna": "d48c18fed4319f8cf1b8f9e03382c62e021decfa",
+  "edition": 77,
+  "date": 1686187951100,
+  "attributes": [
+    {
+      "trait_type": "1.Drink",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "2.Plate",
+      "value": "plat"
+    },
+    {
+      "trait_type": "3.Bun",
+      "value": "Brioche"
+    },
+    {
+      "trait_type": "4.Patty",
+      "value": "Beef"
+    },
+    {
+      "trait_type": "5.Extra",
+      "value": "Bacon"
+    },
+    {
+      "trait_type": "6.Vegetable",
+      "value": "Onion"
+    },
+    {
+      "trait_type": "7.Base Patty",
+      "value": "patty"
+    },
+    {
+      "trait_type": "8.Flag",
+      "value": "None"
+    },
+    {
+      "trait_type": "9.Side",
+      "value": "French Fries"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

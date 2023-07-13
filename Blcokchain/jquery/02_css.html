@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+    <script>
+        $(function(){ 
+        $("ul.first").find(".foo").css('background-color', 'red').end()
+        })    
+    </script>
+</head>
+<body>
+    <ul class="first">
+        <li class="foo">list 1</li>
+        <li>list 2</li>
+        <li class="bar">list 3</li>
+    </ul>
+    <ul class="second">
+        <li class="foo">list1</li>
+        <li>list 2</li>
+        <li class="bar">list 3</li>
+    </ul>
+    <p class="first">1234</p>
+
+</body>
+</html>

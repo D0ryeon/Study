@@ -1,0 +1,4702 @@
+[
+  {
+    "name": "10-DUCK #1",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "9817a88374d470a54eff8c72e692978574d69a50",
+    "edition": 1,
+    "date": 1686187946805,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #2",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "4b57d2a858fdd6ba392a33dec5e060f0863f11a2",
+    "edition": 2,
+    "date": 1686187946864,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #3",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "f8455e8c47143622a2f60039d3d369ded9d7d410",
+    "edition": 3,
+    "date": 1686187946922,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #4",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "47489860490a0a6bb4db95822b86e31eb2b24145",
+    "edition": 4,
+    "date": 1686187946976,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #5",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "59b8c157047b429f832b472a9ec67685b8ebd1b9",
+    "edition": 5,
+    "date": 1686187947039,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #6",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "d4eec25924f5a3462a7ca1714f681a18cdf17ce1",
+    "edition": 6,
+    "date": 1686187947095,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #7",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "c9454258155ba67e387730c9449176caf451b737",
+    "edition": 7,
+    "date": 1686187947156,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #8",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "d1141f0c71aa28f5bdb3ea582bae6da41ce95f3e",
+    "edition": 8,
+    "date": 1686187947221,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #9",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "67b852d2cc83cdaadb4d1c4a2bf5effbb439cca6",
+    "edition": 9,
+    "date": 1686187947276,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #10",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "33cf41c70e53e7f650f2594ff7b23edf4b178c74",
+    "edition": 10,
+    "date": 1686187947338,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #11",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "83eb067daa3cb0ba101dd4c56baf43fe7802309c",
+    "edition": 11,
+    "date": 1686187947401,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #12",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "6c8de43af0630154266ed49d85faa0f304ba6eaf",
+    "edition": 12,
+    "date": 1686187947473,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #13",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "a74f9a8b1a846a813ddca1f8d4f3a6d483d112cc",
+    "edition": 13,
+    "date": 1686187947535,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #14",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "5b60192da0b3333f70a122babd8501f646d3ff20",
+    "edition": 14,
+    "date": 1686187947592,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #15",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "f25155cc0c4f29141912ea6fb8cfb0111f04543e",
+    "edition": 15,
+    "date": 1686187947651,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #16",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "3cffb207147a915c58c4e0fccb39dc34e9768268",
+    "edition": 16,
+    "date": 1686187947711,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #17",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "956231a27e6e9b7a94ce7b18dd47bdb3dce324ed",
+    "edition": 17,
+    "date": 1686187947768,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #18",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "10828975adf19c0bf613bcdf612961b387680bd9",
+    "edition": 18,
+    "date": 1686187947827,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Vanilla Shake"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #19",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "e8d3d01f95ef2a9f92434d8be19ed8f0c59979ee",
+    "edition": 19,
+    "date": 1686187947894,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #20",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "d19e7e91e8a114f21c9f564c9556100bb9db3a92",
+    "edition": 20,
+    "date": 1686187947959,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #21",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "1dc3d6206085423145feb4058d305e76b0e777e9",
+    "edition": 21,
+    "date": 1686187948024,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #22",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "a4b202ef87d3a846d5cd361065997165ff873bdf",
+    "edition": 22,
+    "date": 1686187948085,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #23",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "22e65a259af636a426dc8f69e6fd7fbec819b42c",
+    "edition": 23,
+    "date": 1686187948139,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #24",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "ab2fe45c4a18cd8ac971d8552615957f154180a9",
+    "edition": 24,
+    "date": 1686187948191,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #25",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "b425c2cfd50049052f70527b45514425660e412b",
+    "edition": 25,
+    "date": 1686187948249,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #26",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "8075408c5eb44f9111ecb8056717048b62076343",
+    "edition": 26,
+    "date": 1686187948307,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #27",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "c76bf941ccb2e7081d2dbb03683be817998881f9",
+    "edition": 27,
+    "date": 1686187948368,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #28",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "3da6325b1d9bb4e6f6515ff19e292f9b7422cd34",
+    "edition": 28,
+    "date": 1686187948451,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #29",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "0f4a758e1c1c7c6cf461397ecba8ae5b192d2aec",
+    "edition": 29,
+    "date": 1686187948509,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #30",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "691486ea1b261ef8f2d134df971d24ea233a8cd5",
+    "edition": 30,
+    "date": 1686187948568,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #31",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "caa99cc534ccd521f138de62530dd69fde1cd66d",
+    "edition": 31,
+    "date": 1686187948619,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #32",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "f6da9b476f2ab784e39dff9e09c1a3b0e3821eea",
+    "edition": 32,
+    "date": 1686187948670,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #33",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "240097edd52295eba7ed4ebb3c443cbe95474de2",
+    "edition": 33,
+    "date": 1686187948720,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #34",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "8e3320cdd320d2f9aebc2cf7e315b3798c44bc3d",
+    "edition": 34,
+    "date": 1686187948768,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #35",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "f8f92a4ff010546193b375ec33fd6cfe8ab12dee",
+    "edition": 35,
+    "date": 1686187948819,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #36",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "ce3803a7572bacd615494b50cde08a9f51fa5230",
+    "edition": 36,
+    "date": 1686187948873,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #37",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "1177391c3ff33de57e09bbc5180e0ee95a56e8d4",
+    "edition": 37,
+    "date": 1686187948921,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #38",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "5bfc24ff26611b708769780f6300f2e4e4152cbe",
+    "edition": 38,
+    "date": 1686187948973,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #39",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "ce2ddcfaa42ceee4d5e4ffc91e31aa17d0e42959",
+    "edition": 39,
+    "date": 1686187949033,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #40",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "68d463e0972de2555052857d94b2476cb7422881",
+    "edition": 40,
+    "date": 1686187949084,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #41",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "ffd182c5b532e43ccb2fa37bb862432ffdcd6231",
+    "edition": 41,
+    "date": 1686187949140,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #42",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "889a5a710fbade003d81ae5f34839f7e443fd3b7",
+    "edition": 42,
+    "date": 1686187949187,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #43",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "cf9f4860cf2abb80918bfbac7ba948f526fe9a44",
+    "edition": 43,
+    "date": 1686187949241,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #44",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "f5b06ae5af6cc7d0fb863a0ed952480a2eb804eb",
+    "edition": 44,
+    "date": 1686187949288,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #45",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "88ca418e9d7e34d09ac63d0ae9fc305bc8901501",
+    "edition": 45,
+    "date": 1686187949365,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Doge Bun"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #46",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "10b38bbe8befdb02c5ec9aa02998bc8fa362cd80",
+    "edition": 46,
+    "date": 1686187949419,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #47",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "c842e6bebf42d33b29251430274ab88b0d5a0536",
+    "edition": 47,
+    "date": 1686187949469,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #48",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "cfe6f7346bd64e9e2be4ddaf5513f96c6e508230",
+    "edition": 48,
+    "date": 1686187949522,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #49",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "2f8807846ed15a7986c2097717b347a810128f3f",
+    "edition": 49,
+    "date": 1686187949574,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #50",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "0d5b6481ebc9047419dee219ef32b66e4f7ea90c",
+    "edition": 50,
+    "date": 1686187949633,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #51",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "f2461423cf0f02cb1c1c8a1cb1397545101817d2",
+    "edition": 51,
+    "date": 1686187949710,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #52",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "a072afa3949129ebf2e8229881c47b0aed444cf6",
+    "edition": 52,
+    "date": 1686187949761,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #53",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "d9486e7b9e76a89b557faa3bd4ba11a6bd623682",
+    "edition": 53,
+    "date": 1686187949810,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #54",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "0a2d8d30a9943d03d4db36ba1edd30b5a83c240a",
+    "edition": 54,
+    "date": 1686187949858,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #55",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "1ddb404fcaeebcf4bc33b13f901aefb623ba6bc8",
+    "edition": 55,
+    "date": 1686187949906,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #56",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "d1631fbfb8c29d671c9afc42ad62464f5e55329d",
+    "edition": 56,
+    "date": 1686187949962,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #57",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "2cd93a13b89038d4713df5fb585babb1c53f0853",
+    "edition": 57,
+    "date": 1686187950009,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #58",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "ba877f98ce7c7d91f35639e290d1e9920d91b6fd",
+    "edition": 58,
+    "date": 1686187950058,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #59",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "d5c5542c4856615dc9db7265915ce5382afbe5c5",
+    "edition": 59,
+    "date": 1686187950119,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #60",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "033b4517d9ad4cfaeec604b022dd228d1bda8a5a",
+    "edition": 60,
+    "date": 1686187950173,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #61",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "7312404ab7619fdc640d29efef60ec619c8accfd",
+    "edition": 61,
+    "date": 1686187950230,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Orange Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #62",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "b970c3ad696d5fff3ec8a36c8bc7c8576d56850a",
+    "edition": 62,
+    "date": 1686187950290,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #63",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "a717e7ff93a580f549c961b071b634484edd153b",
+    "edition": 63,
+    "date": 1686187950359,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #64",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "22716198a63d76014b4598d706207c7c26cc9c9e",
+    "edition": 64,
+    "date": 1686187950422,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #65",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "4ba478ee38415034d34605db0b0a17ddf2ae33d5",
+    "edition": 65,
+    "date": 1686187950470,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #66",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "defeae78082eb02f653945bcb83863fe598ef099",
+    "edition": 66,
+    "date": 1686187950519,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #67",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "3c12328709eca4631783a6dd2fd66a2adf043767",
+    "edition": 67,
+    "date": 1686187950574,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #68",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "65177e69b2f53ae30096f1b30539610ca9a487fe",
+    "edition": 68,
+    "date": 1686187950622,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #69",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "9e9be4a11294115da64efb5f3e96df7c8de22d01",
+    "edition": 69,
+    "date": 1686187950671,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #70",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "c16edc536725e35c48725c6b4434138c866144a2",
+    "edition": 70,
+    "date": 1686187950721,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #71",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "281e7afe6892b548322ae8db893892a3e9dc737e",
+    "edition": 71,
+    "date": 1686187950781,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #72",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "8e75ebc36c28db381230bd501d9856524521b9ca",
+    "edition": 72,
+    "date": 1686187950833,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #73",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "de1afe1f58c513e12b4b85559989a18d47a85e9f",
+    "edition": 73,
+    "date": 1686187950888,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #74",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "09401b616f48c7ab1e9607be5cfdd8737a8c376a",
+    "edition": 74,
+    "date": 1686187950953,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #75",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "c40127c06577c9abf42298b11f5def3127a7d3c6",
+    "edition": 75,
+    "date": 1686187951001,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #76",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "f7fd87078e160f2a30f320b4b15901b569b16fa6",
+    "edition": 76,
+    "date": 1686187951050,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #77",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "d48c18fed4319f8cf1b8f9e03382c62e021decfa",
+    "edition": 77,
+    "date": 1686187951100,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #78",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "0e9932370b92837b10bf992923d1c44ad5be999b",
+    "edition": 78,
+    "date": 1686187951147,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #79",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "6a915616adf1fe5fb66c209e90421eca3ca156b8",
+    "edition": 79,
+    "date": 1686187951194,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #80",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "2f4f55697a862a2449cb7f99920d7fce25159a18",
+    "edition": 80,
+    "date": 1686187951242,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #81",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "dfd260879415390d6697906888d93dbfa284b61e",
+    "edition": 81,
+    "date": 1686187951290,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #82",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "38135ad09d80cc5149cb2274bb58d1a0f5e9a967",
+    "edition": 82,
+    "date": 1686187951345,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #83",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "d2036e8fe4de2cb3d36549f32a3ab5fade4fd73e",
+    "edition": 83,
+    "date": 1686187951404,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #84",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "a7ee7ca793b07ba3bd8fbac39c65e377e44a059e",
+    "edition": 84,
+    "date": 1686187951457,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #85",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "4883eaf3f5af9c8a98d734ef7075c6e91e3cbdfc",
+    "edition": 85,
+    "date": 1686187951511,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #86",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "0eea4e0ee1c729115eb4e90b6a6eea06caf6e2c1",
+    "edition": 86,
+    "date": 1686187951571,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #87",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "4e52b1b8362e8ffb2579601ea39114ea927d6bf4",
+    "edition": 87,
+    "date": 1686187951623,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #88",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "16186a07b1f849747328e0d6be31b360a5c32ba9",
+    "edition": 88,
+    "date": 1686187951678,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #89",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "c76a627dfff5c15dfa09ea112e9565305f807280",
+    "edition": 89,
+    "date": 1686187951729,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Black"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #90",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "95ec0cd1dd09063e9cf9d7f7934118ea698697b8",
+    "edition": 90,
+    "date": 1686187951786,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #91",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "97f5a9e02732f4889dc3a7d35215f5d852a66f54",
+    "edition": 91,
+    "date": 1686187951832,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #92",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "bf7c8176079958b7c2735a0247a92e4fd104ded9",
+    "edition": 92,
+    "date": 1686187951883,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #93",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "eb2846df586477f06b33db27d20d76671fc6d93b",
+    "edition": 93,
+    "date": 1686187951933,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Doge Bun"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Chicken"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #94",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "59bda91901f118b4b9fca35184b46f4c3ec35483",
+    "edition": 94,
+    "date": 1686187951982,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #95",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "f442f3ff1fab279607042905b17203b4e9fdecea",
+    "edition": 95,
+    "date": 1686187952034,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Coleslaw"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #96",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "dd387a91b22db09dc36bd29d1071b69bb83041cc",
+    "edition": 96,
+    "date": 1686187952086,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Chili Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #97",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "c8a3a31b6c86d666fdcd79ea2b299d67e446c84b",
+    "edition": 97,
+    "date": 1686187952137,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Cola"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Red"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "French Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #98",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "5aac481cadab5d024fd5f621ed20b65c424b4674",
+    "edition": 98,
+    "date": 1686187952190,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Mr. Pep"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Beef"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Bacon"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Tomato"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #99",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "6fd88d0c1dea32437aa39b6f3833375ef6bd6ba8",
+    "edition": 99,
+    "date": 1686187952236,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Splash"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Sesami"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Cheese"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Onion"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "Green"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Onion Ring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "10-DUCK #100",
+    "description": "당신은 쉽덕입니다.",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "65bdab4c2d17e7f80fd833f88d8a48963a7eed23",
+    "edition": 100,
+    "date": 1686187952285,
+    "attributes": [
+      {
+        "trait_type": "1.Drink",
+        "value": "Grape Soda"
+      },
+      {
+        "trait_type": "2.Plate",
+        "value": "plat"
+      },
+      {
+        "trait_type": "3.Bun",
+        "value": "Brioche"
+      },
+      {
+        "trait_type": "4.Patty",
+        "value": "Shrimp"
+      },
+      {
+        "trait_type": "5.Extra",
+        "value": "Fried Egg"
+      },
+      {
+        "trait_type": "6.Vegetable",
+        "value": "Lettuce"
+      },
+      {
+        "trait_type": "7.Base Patty",
+        "value": "patty"
+      },
+      {
+        "trait_type": "8.Flag",
+        "value": "None"
+      },
+      {
+        "trait_type": "9.Side",
+        "value": "Cheese Fries"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

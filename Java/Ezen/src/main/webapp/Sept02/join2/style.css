@@ -1,0 +1,83 @@
+@charset "UTF-8";
+a:link,a:visited,a:active{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+	color:red;
+}
+
+.end{
+	
+	text-align:center;
+	font-weight: bold;
+	font-size : 40px;
+	color : #03c75a;
+}
+
+.idsub{
+	 Float: right;
+	color : #8e8e8e;
+	
+}
+
+
+.infotext {
+	color : #ff0000;
+	font-size : 12px;
+	
+}
+
+.table_text_done{
+	width:100%;
+	height:51px; 
+	padding : 10px;
+	border: 1px solid #03c75a;
+	background-color : #ffffff;
+}
+
+.table_text {
+	width:100%;
+	height:51px; 
+	padding : 10px;
+	border: 1px solid #dadada;
+	background-color : #ffffff;
+
+}
+
+.input_text[type=text] {
+	border : none;
+	width: 250px;
+	outline:none;
+}
+
+main.header {
+	padding-bottom : 20;
+    padding-top : 60;
+}
+
+body {
+    font-family: Dotum,'돋움',Helvetica,sans-serif;
+    font-size: 18px;
+    -webkit-text-size-adjust: none;
+}
+
+.done{
+	font-size : 15px;
+	color : #8e8e8e;
+}
+
+.join,.reset{
+	color: #fff;
+    border: solid 1px rgba(0,0,0,.08);
+    background-color: #03c75a;
+	display: block;
+    width: 100%;
+    padding: 15px 0 15px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: border-box;
+}

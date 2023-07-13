@@ -1,0 +1,39 @@
+* {padding:0; margin:0; font-family:Georgia;}
+img {vertical-align:middle;}
+body {background:#f5f5f5; padding:10px; font-family:Georgia; font-size:0.75em; text-align:center; color:#666;}
+div, table, form, fieldset, legend, ul, li, span, p, h1, h2, h3, h4, h5 {font-size:1em;}
+h1 {font-size:1.4em; color:#333;}
+fieldset {border:none;}
+legend {display:none; visibility:hidden;}
+a {text-decoration:none;}
+a:hover {color:#C51D8A;}
+table {table-layout:fixed; width:100%; border-collpse:collapse;}
+
+.spot {font-weight:bold;}
+
+/* id check */
+#idCheck {overflow:hidden;}
+#idCheck h1 {padding:15px 0; text-align:left;}
+#idCheck p.desc {background:#fff; border:1px solid #ddd; padding:20px; line-height:1.4em;}
+#idCheck div {padding:10px 0;}
+.inputText {width:100px; vertical-align:middle; background:#fff; border:1px solid #ccc; height:18px; padding:2px;}
+.btn {vertical-align:middle; display:inline-block; cursor:pointer; padding:0 15px 0 0; height:35px; line-height:35px; font-style:italic; background:none; border:none;}
+#idCheck #footer {width:100%; position:absolute; left:0; bottom:0; background:#333; text-align:right;}
+#idCheck #footer span {padding:5px 10px;}
+#idCheck #footer span a {text-decoration:none; color:#C51D8A;}
+#idCheck #footer span a:hover {color:#C51D8A;}
+
+/* zipcode check */
+#zipCheck {overflow:hidden;}
+#zipCheck h1 {padding:15px 0; text-align:left;}
+#zipCheck p.desc {background:#fff; border:1px solid #ddd; padding:20px; line-height:1.4em;}
+#zipCheck div {padding:10px 0;}
+#zipCheck div.spot {border-top:1px dashed #ccc; text-align:left;}
+#zipCheck ul {display:block;}
+#zipCheck ul li {text-align:left; line-height:1.4em;}
+#zipCheck ul li a {color:#C51D8A;}
+#zipCheck ul li a:hover {color:#C51D8A;}
+#zipCheck #footer {width:100%; position:absolute; left:0; bottom:0; background:#333; text-align:right;}
+#zipCheck #footer span {padding:5px 10px;}
+#zipCheck #footer span a {text-decoration:none; color:#fff;}
+#zipCheck #footer span a:hover {color:#C51D8A;}
